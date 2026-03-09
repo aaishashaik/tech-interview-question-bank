@@ -38,4 +38,4 @@ Technologies covered:
 - DevOps
 - Linux
 - SQL
-Added project goal section
+  
