@@ -28,3 +28,13 @@ This repository contains beginner-friendly technical interview questions for sof
 3. What is a join?
 
 More questions will be added soon 🚀
+## Goal of this Repository
+
+This project is created to help beginners prepare for technical interviews by collecting common questions from different technologies.
+
+Technologies covered:
+- Python
+- Git & GitHub
+- DevOps
+- Linux
+- SQL
